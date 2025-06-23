@@ -18,4 +18,4 @@
 
 ### Links
 
-- Live Site URL: [@GitHub](https://rotatingnavigat.netlify.app/)
+- Live Site URL: [@Netlify](https://rotatingnavigat.netlify.app/)
